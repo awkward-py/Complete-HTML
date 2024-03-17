@@ -296,4 +296,3 @@ The complete list of HTML attributes is given below:
 | translate        | Specify whether the content of an element is translated or not.                                               |
 | value            | Specify the value of the element with which it is used.                                                       |
 | wrap             | Specify in which manner the text is to be wrapped in a text area when a form is submitted.                   |
-```
