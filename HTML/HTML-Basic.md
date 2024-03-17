@@ -31,11 +31,11 @@ Tags | Descriptions
 <head>
     <!-- Information about the webpage -->
     <!-- This is a comment tag -->
-    <title>GeeksforGeeks</title>
+    <title>awkwardpy</title>
 </head>
 <body>
     <!-- Contents of the webpage -->
-    <p>GeeksforGeeks is an online study platform</p>
+    <p>awkwardpy is an online study platform</p>
 </body>
 </html>
 ```
@@ -120,23 +120,23 @@ The `<hr>` tag in HTML breaks the page into various parts, creating horizontal m
     <title>HTML <hr> tag</title>
 </head>
 <body>
-    <h1>Hello GeeksforGeeks</h1>
+    <h1>Hello awkwardpy</h1>
     <p>
-        A Computer Science portal for geeks<br>
-        A Computer Science portal for geeks<br>
-        A Computer Science portal for geeks<br>
+        IT-OFF Topics Community<br>
+        IT-OFF Topics Community<br>
+        IT-OFF Topics Community<br>
     </p>
     <hr>
     <p>
-        A Computer Science portal for geeks<br>
-        A Computer Science portal for geeks<br>
-        A Computer Science portal for geeks<br>
+        IT-OFF Topics Community<br>
+        IT-OFF Topics Community<br>
+        IT-OFF Topics Community<br>
     </p>
     <hr>
     <p>
-        A Computer Science portal for geeks<br>
-        A Computer Science portal for geeks<br>
-        A Computer Science portal for geeks<br>
+        IT-OFF Topics Community<br>
+        IT-OFF Topics Community<br>
+        IT-OFF Topics Community<br>
     </p>
     <hr>
 </body>
