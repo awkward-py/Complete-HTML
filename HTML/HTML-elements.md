@@ -1,4 +1,4 @@
-# HTML Elements in GitHub Readme
+# HTML Elements
 
 HTML Elements are fundamental components of web pages, comprising start and end tags enclosing content. They represent various types of content such as headings, paragraphs, links, and images.
 
