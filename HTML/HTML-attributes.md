@@ -281,8 +281,6 @@ The complete list of HTML attributes is given below:
 | readonly         | Specify that the text written in input or text area Element is read-only.                                     |
 | required         | Specify that the input element must be filled out before submitting the Form.                                 |
 | reversed         | Ordered the list in Descending Order(9, 8, 7, 6 …..) instead of ascending order(1, 2, 3 ….)                  |
-
-
 | rows             | The number of visible text lines for the control i.e the number of rows to display.                           |
 | rowspan          | The number of rows a cell should span.                                                                       |
 | selected         | Specify which option should be by default selected when the page loads.                                       |
